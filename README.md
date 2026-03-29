@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shraddha</h1>
-<h3 align="center">Full-Stack Developer | Backend-Focused | Flask • React • MySQL | Open Source Contributor</h3>
+<h1 align="center">Hi 👋, I'm Shraddha Gangurde</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Backend+Focused;Open+Source+Contributor;Lifelong+Learner"/>
