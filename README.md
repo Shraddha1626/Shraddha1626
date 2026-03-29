@@ -67,17 +67,6 @@ Custom **FIFO circular queue implementation** with optimized memory usage
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shraddha1626&show_icons=true&theme=dark" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Shraddha1626&theme=dark" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shraddha1626&layout=compact&theme=dark" />
-</p>
-
----
 
 <p align="center">
   🌈 Turning ideas into scalable systems, one commit at a time  
