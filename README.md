@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shraddha</h1>
-<h3 align="center">Full-Stack Developer from India 🚀</h3>
+<h3 align="center">Full-Stack Developer | Backend-Focused | Flask • React • MySQL | Open Source Contributor</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Backend+Focused;Open+Source+Contributor;Lifelong+Learner"/>
@@ -13,7 +13,7 @@
 - 🤝 I’m looking for help with **scalable backend systems & system design**
 - 🌱 I’m currently learning **Advanced Backend, APIs, and DSA (C++)**
 - 💬 Ask me about **Flask, React, APIs, and Full-Stack Development**
-- ⚡ Fun fact: *I learn fastest by building real-world projects 🚀*
+- 🚀 Fun fact: *I learn fastest by building real-world projects*
 
 ---
 
@@ -52,22 +52,31 @@
 
 #### 📊 [RetailIQ Forecast](https://github.com/Shraddha1626/RetailIQ-Forecast)
 Full-stack **sales forecasting dashboard** with data visualization and insights  
-
 🛠️ **Tech Stack:** Flask · React · MySQL  
 
 ---
 
 #### 🤖 [Hands-Off-Coding](https://github.com/Shraddha1626/Hands-Off-Coding)
 Automation-focused project to **reduce manual coding effort and streamline workflows**  
-
 🛠️ **Tech Stack:** Python · APIs  
 
 ---
 
 #### 🔁 [Circular Queue Library (Java)](https://github.com/Shraddha1626/Circular-Queue-Library)
 Custom **FIFO circular queue implementation** with optimized memory usage  
-
 🛠️ **Tech Stack:** Java  
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shraddha1626&show_icons=true&theme=dark" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Shraddha1626&theme=dark" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shraddha1626&layout=compact&theme=dark" />
+</p>
 
 ---
 
