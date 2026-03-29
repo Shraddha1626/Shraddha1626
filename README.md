@@ -1,61 +1,78 @@
-# 💫 About Me:
-🔭 I’m currently working on building full-stack applications using Flask, React, and MySQL, with a focus on strong backend systems.<br>
-👯 I’m looking to collaborate on open source and full-stack web development projects.<br>
-🤝 I’m looking for help with scaling applications and improving system design and backend architecture.<br>
-🌱 I’m currently learning advanced backend development, API design, and Data Structures & Algorithms in C++.<br>
-💬 Ask me about full-stack development, APIs, and DSA<br>
-🚀 Fun fact: I learn fastest by building real projects  
+<h1 align="center">Hi 👋, I'm Shraddha</h1>
+<h3 align="center">Full-Stack Developer from India 🚀</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Backend+Focused;Open+Source+Contributor;Lifelong+Learner"/>
+</p>
 
 ---
 
-## 🚀 Top Projects
-
-### 🔹 RetailIQ Forecast  
-Full-stack sales forecasting dashboard with interactive visualizations and insights  
-**Tech:** Flask • React • MySQL  
-🔗 https://github.com/Shraddha1626/RetailIQ-Forecast  
-
-### 🔹 Hands-Off-Coding  
-Automation-focused project to reduce manual coding effort and streamline workflows  
-**Tech:** Python • APIs  
-🔗 https://github.com/Shraddha1626/Hands-Off-Coding  
-
-### 🔹 Circular Queue Library (Java)  
-Custom FIFO circular queue implementation with optimized memory usage  
-**Tech:** Java  
-🔗 https://github.com/Shraddha1626/Circular-Queue-Library  
+### 🧠 About Me
+- 🔭 I’m currently working on **full-stack applications (Flask, React, MySQL)**
+- 👯 I’m looking to collaborate on **Open Source & Web Development Projects**
+- 🤝 I’m looking for help with **scalable backend systems & system design**
+- 🌱 I’m currently learning **Advanced Backend, APIs, and DSA (C++)**
+- 💬 Ask me about **Flask, React, APIs, and Full-Stack Development**
+- ⚡ Fun fact: *I learn fastest by building real-world projects 🚀*
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shraddha-gangurde-508923327)
+### 🛠️ Languages and Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
 ---
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shraddha-gangurde-508923327" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Shraddha1626&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Shraddha1626&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shraddha1626&theme=dark&hide_border=false&layout=compact)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shraddha1626&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
+</p>
 
 ---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Shraddha1626&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🚀 Top Projects  
+
+#### 📊 [RetailIQ Forecast](https://github.com/Shraddha1626/RetailIQ-Forecast)
+Full-stack **sales forecasting dashboard** with data visualization and insights  
+
+🛠️ **Tech Stack:** Flask · React · MySQL  
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Shraddha1626&icon=0&color=0)](https://visitcount.itsvg.in)
+#### 🤖 [Hands-Off-Coding](https://github.com/Shraddha1626/Hands-Off-Coding)
+Automation-focused project to **reduce manual coding effort and streamline workflows**  
+
+🛠️ **Tech Stack:** Python · APIs  
+
+---
+
+#### 🔁 [Circular Queue Library (Java)](https://github.com/Shraddha1626/Circular-Queue-Library)
+Custom **FIFO circular queue implementation** with optimized memory usage  
+
+🛠️ **Tech Stack:** Java  
+
+---
+
+<p align="center">
+  🌈 Turning ideas into scalable systems, one commit at a time  
+  <br>
+  💫 Keep building. Keep improving. 🚀  
+</p>
