@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on **full-stack applications (Flask, React, MySQL)**
 - 👯 I’m looking to collaborate on **Open Source & Web Development Projects**
 - 🤝 I’m looking for help with **scalable backend systems & system design**
-- 🌱 I’m currently learning **Advanced Backend, APIs, and DSA (C++)**
+- 🌱 I’m currently learning **Advanced Backend, APIs, and DSA (Java)**
 - 💬 Ask me about **Flask, React, APIs, and Full-Stack Development**
 - 🚀 Fun fact: *I learn fastest by building real-world projects*
 
