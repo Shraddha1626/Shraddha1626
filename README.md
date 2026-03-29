@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Shraddha Gangurde</h1>
+<h3 align="center">“Full-Stack Developer | Backend-Focused |Open Source Contributor| MySQL</h3>
 
-<!--
-**Shraddha1626/Shraddha1626** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻 All of my projects are available at [RetailIQ Forecast Full-stack sales forecasting dashboard with data visualization and insights Tech: Flask, React, MySQL 🔗 https://github.com/Shraddha1626/RetailIQ-Forecast Hands-Off-Coding Automated coding assistant project focused on reducing manual effort in development workflows Tech: (add your stack: e.g., Python, Flask, APIs) 🔗 https://github.com/Shraddha1626/Hands-Off-Coding Circular Queue Library (Java) Custom implementation of a circular queue using FIFO principle with optimized memory usage Tech: Java 🔗 https://github.com/Shraddha1626/Circular-Queue-Library](RetailIQ Forecast Full-stack sales forecasting dashboard with data visualization and insights Tech: Flask, React, MySQL 🔗 https://github.com/Shraddha1626/RetailIQ-Forecast Hands-Off-Coding Automated coding assistant project focused on reducing manual effort in development workflows Tech: (add your stack: e.g., Python, Flask, APIs) 🔗 https://github.com/Shraddha1626/Hands-Off-Coding Circular Queue Library (Java) Custom implementation of a circular queue using FIFO principle with optimized memory usage Tech: Java 🔗 https://github.com/Shraddha1626/Circular-Queue-Library)
 
-Here are some ideas to get you started:
+- 📝 I regularly write articles on [https://medium.com/@shraddhagangurde05](https://medium.com/@shraddhagangurde05)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **Computer Engineering student focused on full-stack web development Tech stack: Flask, React, MySQL Built projects: Sales forecasting dashboard (data visualization + predictions) Classroom/assignment management system Strong in backend development, API design, and database management Solid foundation in C++ and Data Structures & Algorithms Experience with real-world project structure (frontend + backend separation) Open Source Contributor (actively exploring and contributing) Focused on building scalable, practical systems Continuous learner — improves by building and solving problems**
+
+- 📫 How to reach me **shraddhagangurde05@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/shraddha-gangurde-508923327" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shraddha-gangurde-508923327" height="30" width="40" /></a>
+<a href="https://medium.com/shraddha gangurde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="shraddha gangurde" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
